@@ -1,3 +1,3 @@
 # HackerRank
 
-Ejercicios (www.hackerrank.com)
+Exercises from (www.hackerrank.com)
